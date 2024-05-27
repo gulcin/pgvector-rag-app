@@ -1,0 +1,9 @@
+python-dotenv
+psycopg2
+transformers
+torch
+black
+pgvector
+PyPDF2
+bitsandbytes
+accelerate
